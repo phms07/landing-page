@@ -1,7 +1,7 @@
 # Landing page
 
 ## Descrição do projeto:
-Projeto desenvolvido com o objetivo de <b>criar ums <i>landing page</i></b>, no qual uma empresa de Design de Interiores divulga um evento que organizará para os amantes de desing de interiores e de decoração. 
+Projeto desenvolvido com o objetivo de <b>criar ums <i>landing page</i></b>, na qual uma empresa de Design de Interiores divulga um evento que organizará para os amantes de desing de interiores e de decoração. 
 
 Neste projeto foi aplicado, também, conceitos de <b>responsividade</b>.
 
