@@ -15,4 +15,4 @@ Nesse projeto, <b>aprofundei meus conhecimentos em <i>lógica de programação</
 O principal desafio foi conseguir <b>trabalhar e organizar as divs</b> no HTML.
 
 ## Link do repositório do projeto:
-https://github.com/PedroHMSilva929/Jogo-Da-Velha-Com-Bot
+https://github.com/phms07/landing-page/tree/master
