@@ -3,7 +3,7 @@
 ## Descrição do projeto:
 Projeto desenvolvido com o objetivo de <b>criar ums <i>landing page</i></b>, na qual uma empresa de Design de Interiores divulga um evento que organizará para os amantes de desing de interiores e de decoração. 
 
-Neste projeto foi aplicado, também, conceitos de <b>responsividade</b>.
+Neste projeto, também foi aplicado conceitos de <b>responsividade</b>.
 
 ## Tecnologias utilizadas:
 As tecnologias utilizadas foram: <b>HTML</b>, <b>CSS</b> e <b>Bootstrap</b>.
